@@ -1,4 +1,10 @@
 .footer__links-item{
-  margin: 0;
+  margin: 0 0 32px;
   padding: 0;
+}
+
+@media screen and (min-width: 768px) {
+  .footer__links-item{
+    margin: 0 18px 0 0;
+  }
 }
