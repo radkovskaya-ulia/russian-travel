@@ -1,0 +1,14 @@
+.page__container{
+    width: 100%;
+    min-width: 320px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+  }
+  
+@media screen and (min-width: 1280px) {
+    .page__container {
+      max-width: 1280px;
+    }
+}
