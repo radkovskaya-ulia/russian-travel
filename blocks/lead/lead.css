@@ -10,12 +10,6 @@
   }
 }
 
-@media screen and (min-width: 1024px) {
-  .lead{
-    width: calc(100% - 2*48px);
-  }
-}
-
 @media screen and (min-width: 1280px) {
   .lead{
     padding-top: 56px;
